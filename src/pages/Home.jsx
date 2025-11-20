@@ -9,7 +9,7 @@ import Section7 from '../components/Section7';
 import Section8 from '../components/Section8';
 import Section9 from '../components/Section9';
 import Footer from '../components/Footer';
-export default function home() {
+export default function Home() {
     const [isOpen, setIsOpen] = useState(false);
     const toggleNavbar = () => {
         setIsOpen(!isOpen);
