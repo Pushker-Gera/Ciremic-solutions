@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
 import About from "./pages/About.jsx";
 import Home from "./pages/Home.jsx";
-import Services from "./pages/services.jsx";
-import Contact from "./pages/contact.jsx";
+import Services from "./pages/Services.jsx";
+import Contact from "./pages/Contact.jsx";
 import Portfolio from "./pages/Portfolio.jsx";
 import Request from "./pages/Request.jsx";
 const App = () => {
